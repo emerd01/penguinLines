@@ -28,3 +28,9 @@ path
     stroke-width:6;
 }
 
+
+
+.off
+{
+    opacity: .1
+}
